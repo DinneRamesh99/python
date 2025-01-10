@@ -1,0 +1,14 @@
+s={10,20,30,40,50}
+print(s)
+print(type(s))
+s={10,10.4,True,2+3j,'skyllx'}
+print(s)
+print(type(s))
+s.add(99)
+print(s)
+s.remove(True)
+print(s)
+s.pop()
+print(s)
+s.add(10)
+print(s)
